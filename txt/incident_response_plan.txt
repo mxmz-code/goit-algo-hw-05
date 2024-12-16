@@ -1,0 +1,1 @@
+An incident response plan is a set of procedures to follow when a cybersecurity incident occurs. It includes identifying the incident, containing the threat, eradicating the root cause, recovering from the impact, and analyzing the incident to prevent future occurrences. A well-documented response plan is crucial for minimizing damage and ensuring timely recovery.

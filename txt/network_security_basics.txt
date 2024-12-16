@@ -1,0 +1,1 @@
+Network security involves measures to protect the integrity, confidentiality, and accessibility of computer networks and data. Techniques include using firewalls, encryption, intrusion detection systems (IDS), and secure network architecture to mitigate risks such as unauthorized access, malware, and data breaches.
